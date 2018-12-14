@@ -11,6 +11,7 @@ import numpy as np
 import time
 import mxnet as mx
 from mxnet import gluon
+import torch
 import dgl
 from dgl import DGLGraph
 from dgl.data import register_data_args, load_data

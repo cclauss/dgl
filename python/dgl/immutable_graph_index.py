@@ -1,6 +1,7 @@
 from __future__ import absolute_import
 
 import ctypes
+import mxnet as mx
 import numpy as np
 import networkx as nx
 import scipy.sparse as sp
